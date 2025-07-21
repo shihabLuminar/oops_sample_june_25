@@ -5,7 +5,7 @@ class Student {
     required this.grade,
     this.isPassed = false,
   }) {
-    print("$name object created");
+    print("$name");
   }
 
   String name;

@@ -6,7 +6,7 @@
 class Vehicle {
   //class properties
   int speed = 100;
-  String color = "red";
+  String color = "green";
 
   // methods
   void startCar() {
